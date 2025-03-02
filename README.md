@@ -1,10 +1,28 @@
-### Im Ilya Kolosov 20 years old
-**Education:**
-- Student of MEPhI (applied mathematics and computer science program)
-- Studying at MEPhI at the applied analyse of data program (Prioritet 2030)
-- Studied at "Deep Learning" by Moscow Institute of Physics and Technology (MIPT)
+### 👨💻 Ilya Kolosov | 20 y.o. | Data Science & Machine Learning 
 
-**Projects & Expirience:**
-- It will be already soon!
+🎓 **Education**
+- **Moscow Engineering Physics Institute (MEPhI)**  
+  BSc in Applied Mathematics & Computer Science (2021–2025)  
+  MSc in Applied Data Analysis ("Priority 2030" program)  
+  *Relevant coursework: Machine Learning, Statistical Modeling, Big Data Technologies*
+- **MIPT "Deep Learning"** Specialization (2023)  
+  *Topics: Classical ML, Neural Networks, Computer Vision, NLP frameworks*
 
-Contact [me](https://t.me/iiiilyya)
+💼 **Experience**
+- **Machine Learning Engineer** @ [Realans](https://productradar.ru/product/realans/) (Startup)  
+  ▶ Developed NLP-powered Q&A systems  
+  ▶ Optimized recommendation algorithms
+  ▶ Tech stack: Python, PyTorch
+- **Lead Instructor** @ [TopAcademy](https://msk.top-academy.ru/)  
+  ▶ Designed curriculum for Python/ML courses  
+  ▶ Mentored 50+ students
+
+🚀 **Projects** 
+- it will be already soon
+
+🛠 **Tech Stack**  
+`Python` `PyTorch` `TensorFlow` `SQL` `Apache Spark` `Docker` `Git` `MLflow`
+
+📫 **Let's Connect**  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram)](https://t.me/iiiilyya) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)]([ADD_LINK](https://www.linkedin.com/in/the-ilya-kolosov/)) 

@@ -21,7 +21,7 @@
 - it will be already soon
 
 🛠 **Tech Stack**  
-`Python` `PyTorch` `TensorFlow` `SQL` `Apache Spark` `Docker` `Git` `MLflow`
+`Python` `PyTorch` `Docker` `Git` `Linux`
 
 📫 **Let's Connect**  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram)](https://t.me/iiiilyya) 
